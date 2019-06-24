@@ -32,11 +32,11 @@ In unsupervised learning, data is firstly prepared for clustering K-Means algori
 
 ## Results 
 ---
-Gradient Boost Tree Streaming Results<br/>
+**Gradient Boost Tree Streaming Results**<br/>
 <img src="/images/gradient_boost_tree_streaming.png"  /><br/>
-K-Means Streaming Results<br/>
+**K-Means Streaming Results**<br/>
 <img src="/images/k-means_clustering_streaming.png"  /><br/>
-Logistic Regression Streaming Results<br/>
+**Logistic Regression Streaming Results**<br/>
 <img src="/images/logistic_regression_streaming.png"  /><br/><br/>
 
-**Keywords: ** Spark Streaming, Real-Time, Network, Anomaly Detection, Machine Learning, Supervised Learning, Unsupervised Learning, Classifiction, Clustering
+**Keywords:** Spark Streaming, Real-Time, Network, Anomaly Detection, Machine Learning, Supervised Learning, Unsupervised Learning, Classifiction, Clustering
